@@ -1,0 +1,149 @@
+/* #region Base styles */
+body {
+        font-family: 'Roboto', 'Raleway', sans-serif;       
+         font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 140%;
+        color: #434455;
+    background-color:#F4F4FD ;
+    letter-spacing: 2%;
+}
+
+/* Reset */
+a {
+    text-decoration: none;
+    color: currentColor;
+}
+
+ul {
+    list-style-type: none;
+}
+/* #endregion */
+
+/* #region Common */
+.accent-text {
+    color: #4D5AE5;
+}
+/* #endregion */
+
+/* #region Header */
+.header-nav {}
+
+.nav {}
+
+.nav-logo {
+font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+}
+
+.nav-menu {}
+
+.nav-menu-list {}
+
+.nav-menu-link {
+    line-height: 1.5;
+        letter-spacing: 0.02em;
+        font-size: 16px;
+}
+
+.address {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+            letter-spacing: 0.02em;
+}
+
+.address-menu {}
+
+.address-list {}
+
+.address-list-link {}
+/* #endregion */
+
+/* #region Hero */
+.hero {
+    background-color: #2E2F42;
+}
+
+.hero-title {
+    font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07143;
+            letter-spacing: 0.02em;
+            text-align: center;
+            color: #FFFFFF;
+}
+
+.hero-btn {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+
+.hero-btn:hover {
+background-color: #404BBF;
+}
+
+.hero-btn:focus {
+background-color:#404BBF;
+}
+/* #endregion */
+
+/* #region Solutions */
+.solution {}
+
+.solution-title {}
+
+.solution-menu {}
+
+.solution-list {}
+
+.solution-list-title {}
+
+.solution-list-description {}
+/* #endregion */
+
+/* #region Our Team */
+.team {}
+
+.team-title {}
+
+.team-menu {}
+
+.team-list {}
+
+.team-photo {}
+
+.team-photo-title {}
+
+.team-photo-description {}
+/* #endregion */
+
+/* #region Portfolio */
+.portfolio {}
+
+.portfolio-title {}
+
+.portfolio-menu {}
+
+.portfolio-list {}
+
+.portfolio-img {}
+
+.portfolio-img-title {}
+
+.portfolio-img-description {}
+/* #endregion */
+
+/* #region Footer */
+.footer {}
+
+.footer-logo {}
+
+.accent-text {}
+
+.footer-description {}
+/* #endregion */
