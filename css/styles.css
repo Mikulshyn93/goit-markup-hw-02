@@ -121,7 +121,8 @@ background-color:#404BBF;
 /* #region Solutions */
 .solution {}
 
-.solution-title {}
+.solution-title {
+}
 
 .solution-menu {}
 
@@ -132,6 +133,7 @@ background-color:#404BBF;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2E2F42;
+        font-weight: 500;
 }
 
 .solution-list-description {
@@ -170,6 +172,7 @@ background-color:#404BBF;
             letter-spacing: 0.02em;
             text-align: center;
             color: #2E2F42;
+            font-weight: 500;
 }
 
 .team-photo-description {
@@ -204,6 +207,7 @@ background-color:#404BBF;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2E2F42;
+        font-weight: 500;
         }
 
 
