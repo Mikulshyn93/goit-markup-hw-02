@@ -15,12 +15,20 @@ a {
     color: currentColor;
 }
 
-a:hover{
+.nav-menu-link:hover{
 color: #404BBF;
 }
 
-a:focus {
+.nav-menu-link:focus {
 color: #404BBF;
+}
+
+.address-list-link:hover{
+    color: #404BBF;
+}
+
+.address-list-link:focus{
+    color: #404BBF;
 }
 
 ul {
